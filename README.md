@@ -5,7 +5,7 @@ a repository for storing all scripts and relevant informations about my private 
 ## required hardware & software
 
 ### local
-- Scanner (e.g. Canon ScanLide 300)
+- Scanner (e.g. Canon CanoScan LiDE 300)
 - scanimage
 - ocrmypdf
 - pdfunite
